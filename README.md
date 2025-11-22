@@ -1,0 +1,2 @@
+# dorkit
+Presents an input field and searches many popular social media platforms in three separate tabs, Bing, Google and DuckDuckGo at once.
